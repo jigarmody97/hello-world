@@ -1,3 +1,3 @@
 # hello-world
 practice
-THis is practice change
+This is practice change
